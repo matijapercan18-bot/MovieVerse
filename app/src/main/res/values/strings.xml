@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MovieVerse</string>
+    <string name="watch_videos_in_nvirtual_reality">Watch Videos in\nVirtual Reality</string>
+    <string name="download_and_watch_offline_n_wherever_you_are">Download and watch offline\n wherever you are</string>
+    <string name="get_in">Get In</string>
 </resources>
