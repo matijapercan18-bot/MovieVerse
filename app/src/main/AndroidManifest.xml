@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MovieVerse">
         <activity
+            android:name="com.example.DetailActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.MainActivity"
             android:exported="false" />
         <activity
